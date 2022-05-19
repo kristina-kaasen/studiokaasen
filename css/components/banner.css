@@ -1,0 +1,19 @@
+.banner {
+	background-image: url(../../images/background.jpg);
+	background-image: linear-gradient(0deg, pink0%, purple50%)
+	color: pink;
+	padding: 150px 10px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8px;
+	margin-bottom: 40px;
+}
